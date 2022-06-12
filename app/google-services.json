@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853901509614",
+    "project_id": "zenbodygym-15495",
+    "storage_bucket": "zenbodygym-15495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853901509614:android:04eaacd30de2a7712104ff",
+        "android_client_info": {
+          "package_name": "com.example.zenbodygym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853901509614-7c7o8m84dbekiajfb0n4hjbaaqa09gfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVJqZHg_-JX_Uag8-rBVwAGC2Y6BaJ5hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853901509614-7c7o8m84dbekiajfb0n4hjbaaqa09gfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
